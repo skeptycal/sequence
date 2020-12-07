@@ -1,0 +1,3 @@
+package sequence // import "github.com/skeptycal/util/data/sequence"
+
+type Sequence []int
