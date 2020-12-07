@@ -1,6 +1,9 @@
 package main
 
+import "github.com/skeptycal/util/data/sequence"
+
 func main() {
-	sequence := make(Sequence, 0, len(s))
+	size := 100
+	sequence := make(sequence.Sequence, 0, size)
 	println(sequence)
 }
